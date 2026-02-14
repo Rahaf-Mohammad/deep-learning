@@ -32,3 +32,10 @@ model = SimpleFeedForwardNet()
 optimizer = tr.optim.SGD(model.parameters(), lr=0.01)
 
 loss_fn = tr.nn.CrossEntropyLoss()
+
+
+delete wrong file
+
+delete wrong file
+
+
